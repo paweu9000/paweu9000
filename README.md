@@ -4,11 +4,11 @@
 https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
 -->
 <a href="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=paweu9000&&show_icons=true&theme=dark&hide=issues,contribs">
-  <img height=100 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=paweu9000&&show_icons=true&theme=dark&hide=issues,contribs" />
+  <img height=180 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=paweu9000&&show_icons=true&theme=dark&hide=issues,contribs" />
 </a>
 
 <a href="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=paweu9000&&show_icons=true&theme=dark&hide=issues,contribs">
-  <img height=100 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=paweu9000&&show_icons=true&theme=dark&hide=issues,contribs" />
+  <img height=180 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=paweu9000&&show_icons=true&theme=dark&hide=issues,contribs" />
 </a>
 
 </div>
