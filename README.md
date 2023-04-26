@@ -2,7 +2,8 @@
 
     ⚡I’m currently working on my Flashcards App⚡
     
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paweu9000)](https://github.com/anuraghazra/github-readme-stats)
+    ---
+    <img align="left" alt="paweu9000's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paweu9000)" />
 
 <!--
 **paweu9000/paweu9000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
