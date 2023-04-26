@@ -2,7 +2,7 @@
 
     ⚡I’m currently working on my Flashcards App⚡
     
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paweu9000)](https://github.com/anuraghazra/github-readme-stats)
+    https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=paweu9000&&show_icons=true&theme=dark
 
 <!--
 **paweu9000/paweu9000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
