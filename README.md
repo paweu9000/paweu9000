@@ -3,8 +3,7 @@
 <!--
 https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
 -->
-<a href="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=paweu9000&&show_icons=true&theme=dark&hide=issues, contribs">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=paweu9000&&show_icons=true&theme=dark" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=paweu9000&&show_icons=true&theme=dark&hide=issues, contribs" />
 </a>
 
 </div>
