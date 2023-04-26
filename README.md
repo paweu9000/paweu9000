@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-    I’m currently working on my Flashcards App
+    ⚡I’m currently working on my Flashcards App⚡
 
 <!--
 **paweu9000/paweu9000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
